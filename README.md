@@ -145,6 +145,8 @@ npx expo run:web
 <img width="337" height="645" alt="image" src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" />
 <img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" />
 <img width="333" height="705" alt="image" src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" />
+
+
 ### 🏗️ App Structure Overview
 ```
 📱 Main App Tabs:
