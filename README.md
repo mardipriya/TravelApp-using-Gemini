@@ -129,46 +129,48 @@ npx expo run:web
 # App Screenshots & Branding
 
 ## 🎨 App Icons & Branding
+# App Screenshots & Branding
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-top: 20px;">
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/a26bdb6a-e0eb-40c9-9002-343f0000e5ca" alt="App Icon & Branding 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+## 🎨 App Icons & Branding
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/a26bdb6a-e0eb-40c9-9002-343f0000e5ca" alt="App Icon 1" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" alt="App Icon & Branding 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" alt="App Icon 2" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" alt="App Icon & Branding 3" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" alt="App Icon 3" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" alt="App Icon & Branding 4" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" alt="App Icon 4" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/826b9db9-9cae-4d13-9c6c-690bd4399f68" alt="App Icon & Branding 5" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/826b9db9-9cae-4d13-9c6c-690bd4399f68" alt="App Icon 5" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/5691266b-c231-442c-94e3-18ec312bf47d" alt="App Icon & Branding 6" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/5691266b-c231-442c-94e3-18ec312bf47d" alt="App Icon 6" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/d9dc0ee7-c98f-4cb2-9147-22813c45999f" alt="App Icon & Branding 7" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/d9dc0ee7-c98f-4cb2-9147-22813c45999f" alt="App Icon 7" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/dd165742-4d2d-4b67-8db1-4a9efffa3d1a" alt="App Icon & Branding 8" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/dd165742-4d2d-4b67-8db1-4a9efffa3d1a" alt="App Icon 8" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/11d3877f-3013-47a7-80cb-d6c4205057d5" alt="App Icon & Branding 9" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/11d3877f-3013-47a7-80cb-d6c4205057d5" alt="App Icon 9" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" alt="App Icon & Branding 10" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" alt="App Icon 10" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" alt="App Icon & Branding 11" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" alt="App Icon 11" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
-    <div style="flex: 1 0 45%; margin-bottom: 20px;">
-        <img src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" alt="App Icon & Branding 12" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <div style="width: 48%; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" alt="App Icon 12" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
 </div>
-
 
 ### 🏗️ App Structure Overview
 ```
