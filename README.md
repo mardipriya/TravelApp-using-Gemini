@@ -122,7 +122,8 @@ npx expo run:web
 ## 📱 App Screenshots & Visual Guide
 
 ### 🎨 App Icons & Branding
-![App Icon](assets/images/icon.png)
+<img width="337" height="653" alt="image" src="https://github.com/user-attachments/assets/a498b09a-8166-49ab-aac9-1e679ef9db33" />
+
 ![Adaptive Icon](assets/images/adaptive-icon.png)
 ![Splash Icon](assets/images/splash-icon.png)
 
