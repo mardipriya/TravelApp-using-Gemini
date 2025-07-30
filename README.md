@@ -122,18 +122,111 @@ npx expo run:web
 ## 📱 App Screenshots & Visual Guide
 
 ### 🎨 App Icons & Branding
-<img width="331" height="717" alt="image" src="https://github.com/user-attachments/assets/a26bdb6a-e0eb-40c9-9002-343f0000e5ca" />
-<img width="340" height="701" alt="image" src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" />
-<img width="249" height="520" alt="image" src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" />
-<img width="335" height="700" alt="image" src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" />
-<img width="339" height="672" alt="image" src="https://github.com/user-attachments/assets/826b9db9-9cae-4d13-9c6c-690bd4399f68" />
-<img width="337" height="696" alt="image" src="https://github.com/user-attachments/assets/5691266b-c231-442c-94e3-18ec312bf47d" />
-<img width="336" height="696" alt="image" src="https://github.com/user-attachments/assets/d9dc0ee7-c98f-4cb2-9147-22813c45999f" />
-<img width="340" height="707" alt="image" src="https://github.com/user-attachments/assets/dd165742-4d2d-4b67-8db1-4a9efffa3d1a" />
-<img width="333" height="682" alt="image" src="https://github.com/user-attachments/assets/11d3877f-3013-47a7-80cb-d6c4205057d5" />
-<img width="337" height="645" alt="image" src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" />
-<img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" />
-<img width="333" height="705" alt="image" src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Screenshots & Branding</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .gallery-item {
+            width: 340px;
+            margin: 10px;
+            text-align: center;
+        }
+        .gallery-item img {
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+        .gallery-item img:hover {
+            transform: scale(1.05);
+        }
+        .gallery-item p {
+            margin-top: 10px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>App Screenshots & Branding</h1>
+
+    <div class="gallery">
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/a26bdb6a-e0eb-40c9-9002-343f0000e5ca" alt="Screenshot 1" />
+            <p>App Icon & Branding 1</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" alt="Screenshot 2" />
+            <p>App Icon & Branding 2</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" alt="Screenshot 3" />
+            <p>App Icon & Branding 3</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" alt="Screenshot 4" />
+            <p>App Icon & Branding 4</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/826b9db9-9cae-4d13-9c6c-690bd4399f68" alt="Screenshot 5" />
+            <p>App Icon & Branding 5</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/5691266b-c231-442c-94e3-18ec312bf47d" alt="Screenshot 6" />
+            <p>App Icon & Branding 6</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/d9dc0ee7-c98f-4cb2-9147-22813c45999f" alt="Screenshot 7" />
+            <p>App Icon & Branding 7</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/dd165742-4d2d-4b67-8db1-4a9efffa3d1a" alt="Screenshot 8" />
+            <p>App Icon & Branding 8</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/11d3877f-3013-47a7-80cb-d6c4205057d5" alt="Screenshot 9" />
+            <p>App Icon & Branding 9</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" alt="Screenshot 10" />
+            <p>App Icon & Branding 10</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" alt="Screenshot 11" />
+            <p>App Icon & Branding 11</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" alt="Screenshot 12" />
+            <p>App Icon & Branding 12</p>
+        </div>
+    </div>
+
+</body>
+</html>
+
 
 ### 🏗️ App Structure Overview
 ```
