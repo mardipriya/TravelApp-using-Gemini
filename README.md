@@ -130,48 +130,21 @@ npx expo run:web
 
 ## 🎨 App Icons & Branding
 # App Screenshots & Branding
+## 📱 App Screenshots & Visual Guide
 
-## 🎨 App Icons & Branding
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/a26bdb6a-e0eb-40c9-9002-343f0000e5ca" alt="App Icon 1" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" alt="App Icon 2" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" alt="App Icon 3" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" alt="App Icon 4" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/826b9db9-9cae-4d13-9c6c-690bd4399f68" alt="App Icon 5" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/5691266b-c231-442c-94e3-18ec312bf47d" alt="App Icon 6" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/d9dc0ee7-c98f-4cb2-9147-22813c45999f" alt="App Icon 7" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/dd165742-4d2d-4b67-8db1-4a9efffa3d1a" alt="App Icon 8" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/11d3877f-3013-47a7-80cb-d6c4205057d5" alt="App Icon 9" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" alt="App Icon 10" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" alt="App Icon 11" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    <div style="width: 48%; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" alt="App Icon 12" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-</div>
-
+### 🎨 App Icons & Branding
+<img width="331" height="717" alt="image" src="https://github.com/user-attachments/assets/a26bdb6a-e0eb-40c9-9002-343f0000e5ca" />
+<img width="340" height="701" alt="image" src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" />
+<img width="249" height="520" alt="image" src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" />
+<img width="335" height="700" alt="image" src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" />
+<img width="339" height="672" alt="image" src="https://github.com/user-attachments/assets/826b9db9-9cae-4d13-9c6c-690bd4399f68" />
+<img width="337" height="696" alt="image" src="https://github.com/user-attachments/assets/5691266b-c231-442c-94e3-18ec312bf47d" />
+<img width="336" height="696" alt="image" src="https://github.com/user-attachments/assets/d9dc0ee7-c98f-4cb2-9147-22813c45999f" />
+<img width="340" height="707" alt="image" src="https://github.com/user-attachments/assets/dd165742-4d2d-4b67-8db1-4a9efffa3d1a" />
+<img width="333" height="682" alt="image" src="https://github.com/user-attachments/assets/11d3877f-3013-47a7-80cb-d6c4205057d5" />
+<img width="337" height="645" alt="image" src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" />
+<img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" />
+<img width="333" height="705" alt="image" src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" />
 ### 🏗️ App Structure Overview
 ```
 📱 Main App Tabs:
