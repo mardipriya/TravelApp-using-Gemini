@@ -126,19 +126,14 @@ npx expo run:web
 <img width="340" height="701" alt="image" src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" />
 <img width="249" height="520" alt="image" src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" />
 <img width="335" height="700" alt="image" src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" />
-
-
-
-![Adaptive Icon](assets/images/adaptive-icon.png)
-![Splash Icon](assets/images/splash-icon.png)
-
-### 🖥️ Login & Authentication
-![Login Screen](assets/images/Login.jpg)
-*Beautiful login screen with travel-themed background*
-
-### 🎬 Animated Elements
-![Air Animation](assets/images/Air.gif)
-*Smooth animations enhance the user experience*
+<img width="339" height="672" alt="image" src="https://github.com/user-attachments/assets/826b9db9-9cae-4d13-9c6c-690bd4399f68" />
+<img width="337" height="696" alt="image" src="https://github.com/user-attachments/assets/5691266b-c231-442c-94e3-18ec312bf47d" />
+<img width="336" height="696" alt="image" src="https://github.com/user-attachments/assets/d9dc0ee7-c98f-4cb2-9147-22813c45999f" />
+<img width="340" height="707" alt="image" src="https://github.com/user-attachments/assets/dd165742-4d2d-4b67-8db1-4a9efffa3d1a" />
+<img width="333" height="682" alt="image" src="https://github.com/user-attachments/assets/11d3877f-3013-47a7-80cb-d6c4205057d5" />
+<img width="337" height="645" alt="image" src="https://github.com/user-attachments/assets/0ff4e76d-ab75-41f7-9c08-2e840426e04c" />
+<img width="336" height="702" alt="image" src="https://github.com/user-attachments/assets/5c4ba522-0a1e-4fb5-b1bc-2e9613651137" />
+<img width="333" height="705" alt="image" src="https://github.com/user-attachments/assets/be6d584c-53d3-4603-b901-d45db59d0049" />
 
 ### 🏗️ App Structure Overview
 ```
@@ -287,7 +282,3 @@ If you encounter any issues or have questions:
 - [Google Gemini AI](https://ai.google.dev/) for AI capabilities
 - [Firebase](https://firebase.google.com/) for backend services
 - [React Native](https://reactnative.dev/) community
-
----
-
-**Made with ❤️ using React Native and AI**
