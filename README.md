@@ -125,7 +125,7 @@ npx expo run:web
 <img width="331" height="717" alt="image" src="https://github.com/user-attachments/assets/a26bdb6a-e0eb-40c9-9002-343f0000e5ca" />
 <img width="340" height="701" alt="image" src="https://github.com/user-attachments/assets/0765d8cf-ba30-450d-9bec-2ffcc30da6b1" />
 <img width="249" height="520" alt="image" src="https://github.com/user-attachments/assets/87ede91f-daa1-468e-abaf-10af4822b306" />
-<img width="337" height="709" alt="image" src="https://github.com/user-attachments/assets/a043b716-f8fe-4546-9ed5-144e85d04b3d" />
+<img width="335" height="700" alt="image" src="https://github.com/user-attachments/assets/80d462d6-38e3-40cc-95e8-1a0d463a1e02" />
 
 
 
